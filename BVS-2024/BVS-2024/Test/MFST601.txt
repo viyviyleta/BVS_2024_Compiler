@@ -1,0 +1,7 @@
+declare hallow function writeHello(usint a,) {
+  display("Hello");
+}
+
+main {
+  writeHello();
+}

@@ -1,0 +1,17 @@
+main{
+declare text str1: "apple2132";
+declare text str2: "apple";
+declare usint result: StrCmp(str1, str2);
+if(result == 0)
+{
+display("The lines are equal");
+}
+if(result > 0)
+{
+display("The first line is bigger than the second");
+}
+if(result < 0)
+{
+display("The first line is smaller than the second");
+}
+}

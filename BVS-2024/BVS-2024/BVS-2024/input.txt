@@ -1,0 +1,30 @@
+declare boolean function setBool(usint a) {
+	display(1);
+	return true; 
+}
+
+declare hallow function sayHello() {
+	display("Hello, my name is Violetta!");
+	declare text todaysData: "16.12.2024";
+	display(todaysData);
+}
+
+declare hallow function getSetBool() {
+	setBool(1);
+}
+
+
+main {
+    sayHello();
+	getSetBool();
+	if (1 != StrCmp("18", "1")) {
+		display("No matches!");
+	}
+	declare symbol str : 'a';
+	declare usint num;
+	num: 200;
+	display(num);
+	num: Pow(2, 3);
+	display(num);
+
+}

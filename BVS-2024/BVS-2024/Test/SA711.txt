@@ -1,0 +1,6 @@
+declare hallow function a() {
+}
+
+main {
+  display(a);
+}

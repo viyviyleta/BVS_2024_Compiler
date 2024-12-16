@@ -1,0 +1,6 @@
+declare hallow function func(usint a) {
+}
+
+main {
+  func(1,);
+}

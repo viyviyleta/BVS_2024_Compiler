@@ -1,0 +1,3 @@
+﻿  Assembling BVS-2024.asm...
+BVS-2024.asm(59): warning A6004: procedure argument or local not referenced : setBool$as
+  BVS-2024Asm.vcxproj -> D:\3 семестр\BVS-2024_Course_project\BVS-2024\BVS-2024\Debug\BVS-2024Asm.exe

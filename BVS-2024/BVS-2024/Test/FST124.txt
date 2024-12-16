@@ -1,0 +1,6 @@
+main {
+	num: 200;
+	display(num);
+	num: Pow(2, 3);
+	display(num);
+}

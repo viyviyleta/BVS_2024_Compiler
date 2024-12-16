@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  BVS-2024Lib.cpp
+D:\3 семестр\BVS-2024_Course_project\BVS-2024\BVS-2024\BVS-2024Lib\BVS-2024Lib.cpp(17,27): warning C4018: <: несоответствие типов со знаком и без знака
+  BVS-2024Lib.vcxproj -> D:\3 семестр\BVS-2024_Course_project\BVS-2024\BVS-2024\Debug\BVS-2024Lib.lib

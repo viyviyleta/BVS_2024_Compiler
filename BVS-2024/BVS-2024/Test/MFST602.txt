@@ -1,0 +1,7 @@
+declare hallow function empty() {
+  return return;
+}
+
+main {
+  empty();
+}
